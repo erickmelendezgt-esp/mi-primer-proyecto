@@ -1,1 +1,3 @@
-# mi-primer-proyecto
+# Mi primer proyecto
+
+Estoy aprendiendo GitHub desde la web 🚀
